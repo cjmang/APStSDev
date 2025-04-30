@@ -1,0 +1,9 @@
+[submodule "Slay-The-Spire-Archipelago-Mod"]
+	path = Slay-The-Spire-Archipelago-Mod
+	url = https://github.com/cjmang/Slay-The-Spire-Archipelago-Mod.git
+[submodule "Java-Client"]
+	path = Java-Client
+	url = https://github.com/cjmang/Java-Client.git
+[submodule "Archipelago"]
+	path = Archipelago
+	url = https://github.com/cjmang/Archipelago.git
