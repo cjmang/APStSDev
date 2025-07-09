@@ -1,3 +1,5 @@
+[![unittests](https://github.com/cjmang/StS-AP-World/actions/workflows/unittests.yml/badge.svg?branch=sts)](https://github.com/cjmang/StS-AP-World/actions/workflows/unittests.yml)
+
 This repo is intended as a quick way to setup a development
 environment for maintaining Slay the Spire.  It relies on
 gradle's composite builds feature with git submodules to inject
